@@ -2,7 +2,7 @@
   "name": "type-class",
   "version": "1.0.0",
   "description": "Conceptos basicos sobre typescript",
-  "main": "index.js",
+  "main": "index.ts",
   "author": "Caleb Isaac Mora Diaz",
   "license": "MIT",
   "scripts": {
