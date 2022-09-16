@@ -1,0 +1,11 @@
+{
+  "name": "type-class",
+  "version": "1.0.0",
+  "description": "Conceptos basicos sobre typescript",
+  "main": "index.js",
+  "author": "Caleb Isaac Mora Diaz",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
